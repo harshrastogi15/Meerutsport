@@ -1,0 +1,237 @@
+body{
+    background-color: rgb(221, 171, 120);
+}
+
+header{
+    color: #ffebcd;
+    background-color: rgb(235, 155, 76);
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+header em{
+    font-size: 50px;
+    padding-right: 1%;
+    padding-left: 6%;
+    font-weight: 600;
+}
+
+.sport{
+    background-color: rgb(221, 158, 94);
+    color: snow;
+    font-size: 22px;
+    font-family: cursive;
+    padding: 3px;
+}
+
+.sport em{
+    font-weight: bold;
+    clear: both;
+}
+
+.sport span{
+    float: right;
+}
+
+#img1{
+    float: right;
+    margin: 30px;
+}
+
+#img2{
+    float: left;
+    margin: 10px;
+}
+
+.sport a{
+    font-size: 25px;
+}
+
+.img{
+    margin: 0px;
+}
+
+.index{
+    color: beige;
+    background-color: rgb(121, 76, 32);
+    /* margin: 0%; */
+    padding:0.1px 10px .1px 10px;
+    /* height: 50px;
+    width: 100%; */
+    position: relative;
+}
+
+.index h1{
+    font-size: 30px;
+    
+}
+
+.index a{
+    font-size: 20px;
+    color: whitesmoke;
+    float: right;
+    height: fit-content;
+    width: fit-content;
+}
+
+.index ul{
+   list-style: none;
+}
+
+.index #plac{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+#ed{
+    position: absolute;
+    top: 20px;
+    right: 170px;
+}
+
+
+.meerut{
+    padding: 3px;
+    background-color: rgb(236, 167, 98);
+}
+
+.meerut h5, .places h4, .edu h4{
+    color: rgb(120, 97, 144);
+    font-size: 25px;
+}
+
+.meerut p{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: snow;
+}
+
+.places{
+    padding: 3px;
+    background-color: rgb(221, 158, 94);
+}
+
+.places h5{
+    color: rgb(121, 111, 94);
+    font-size: 30px;
+}
+
+.places em{
+    text-align: right;
+    font-size: 21px;
+    padding: 5px;
+    margin: 2px;
+    color: rgb(47, 60, 61);
+}
+
+.places ul{
+    list-style: none;
+}
+
+.places p{
+    font-size: 20px;
+    font-family: cursive;
+    color: whitesmoke;
+}
+
+.edu{
+    background-color:  rgb(245, 182, 119);
+    font-size: 30px;
+    padding: 3px;
+}
+
+.edu p{
+    font-size: 24px;
+    font-family: cursive;
+    color: rgb(225, 225, 238);
+}
+
+.edu img{
+    float: right;
+    clear: both;
+    margin: 3px;
+}
+
+.edu h5{
+    color: rgb(111, 73, 187);
+    font-size: 23px;
+}
+
+.edu h6{
+    color: rgb(39, 39, 138);
+    font-size: 20px;
+}
+
+.edu ul{
+    list-style: square;
+    font-size: 25px;
+    color: rgb(228, 232, 236);
+    font-family: serif;
+}
+
+.food{
+    background-color: rgb(211, 172, 133);
+}
+
+.food img{
+    float:left;
+    clear: both;
+    margin: 30px 3px;
+}
+
+.food {
+    padding: 3px;
+    float: right;
+    width: 50%;
+}
+
+.food h4{
+    color: rgb(124, 119, 112);
+    font-size: 30px;
+}
+
+.food h3{
+    color: rgb(107, 98, 117);
+    padding: 3px;
+}
+
+.food p{
+    color: rgb(131, 129, 134);
+}
+
+.rm{
+    background-color: rgb(197, 158, 89) ;
+    padding: 5px;
+    border: 5px solid rgb(71, 51, 15);
+    margin: 4px;
+    width: 47%;
+    height: fit-content;
+}
+
+.rm h3{
+    color: rgb(217, 224, 231);
+    font-size: 25px;
+    font-weight: 500;
+    font-family: monospace;
+}
+
+.rm p{
+    font-size: 20px;
+    color: rgb(233, 220, 220);
+    font-family: cursive;
+}
+
+.food footer{
+    
+    background-color:rgb(121, 85, 50);
+    margin: 110px 0px 0px 0px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+footer a{
+    color: rgb(146, 159, 172);
+}
